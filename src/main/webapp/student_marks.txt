@@ -1,0 +1,8 @@
+Dep 3,S8,Alice,20
+Dep 3,S7,Frank,70
+Dep 3,S6,David,32
+Dep 1,S3,Isabella,60
+Dep 2,S5,Jack,30
+Dep 1,S4,Emma,90
+Dep 1,S2,Grace,70
+Dep 1,S1,Henry,35

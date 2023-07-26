@@ -1,0 +1,9 @@
+com\jtest\VO\UserVO.class
+com\jtest\Constants.class
+com\jtest\Main.class
+com\jtest\StudentAction.class
+com\jtest\FileReadAction.class
+com\jtest\LoginAction.class
+com\jtest\LoginController.class
+com\jtest\VO\StudentVO.class
+com\jtest\StudentController.class
